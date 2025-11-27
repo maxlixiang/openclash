@@ -5,9 +5,57 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,bytehwm.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,bytetcc.com
+DOMAIN-SUFFIX,ecombdimg.com
+DOMAIN-SUFFIX,ecombdstatic.com
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,bytegoofy.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,byted-static.com
+DOMAIN-SUFFIX,ibytedapm.com
+DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,yhgfb-cn-static.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,vegslb.com
+DOMAIN-SUFFIX,elemecdn.com
+DOMAIN-SUFFIX,kuaishouzt.com
+DOMAIN-SUFFIX,inkuai.com
+DOMAIN-SUFFIX,adkwai.com
+DOMAIN-SUFFIX,adukwai.com
+DOMAIN-SUFFIX,cainiao.com
+DOMAIN-SUFFIX,pinduoduo.net
+DOMAIN-SUFFIX,pddpic.com
+DOMAIN-SUFFIX,pddugc.com
+DOMAIN-SUFFIX,xiaoeknow.com
+DOMAIN-SUFFIX,xiaoe-live.com
+DOMAIN-SUFFIX,xiaoeknow.com
+DOMAIN-SUFFIX,xiaoe-tech.com
+DOMAIN-SUFFIX,byteeffecttos.com
+DOMAIN-SUFFIX,ahdohpiechei.com
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,douyin
+DOMAIN-KEYWORD,yupoo
+DOMAIN-KEYWORD,kuaishou
+DOMAIN-KEYWORD,doubao
+DOMAIN-KEYWORD,qishui
+DOMAIN-KEYWORD,huoshan
+DOMAIN-KEYWORD,zijieapi
+DOMAIN-KEYWORD,volc
+DOMAIN-KEYWORD,vzuu
+DOMAIN-KEYWORD,zhicyun
+DOMAIN-KEYWORD,weixin
+DOMAIN-KEYWORD,jimeng
+DOMAIN-KEYWORD,cdnhwc
+DOMAIN-KEYWORD,cdnhwc
+
+
+
+
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
