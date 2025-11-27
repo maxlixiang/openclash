@@ -1,6 +1,26 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
+
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,douyin
+DOMAIN-KEYWORD,yupoo
+DOMAIN-KEYWORD,kuaishou
+DOMAIN-KEYWORD,doubao
+DOMAIN-KEYWORD,qishui
+DOMAIN-KEYWORD,huoshan
+DOMAIN-KEYWORD,zijieapi
+DOMAIN-KEYWORD,volc
+DOMAIN-KEYWORD,vzuu
+DOMAIN-KEYWORD,zhicyun
+DOMAIN-KEYWORD,weixin
+DOMAIN-KEYWORD,jimeng
+DOMAIN-KEYWORD,cdnhwc
+
+
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
@@ -34,25 +54,6 @@ DOMAIN-SUFFIX,xiaoeknow.com
 DOMAIN-SUFFIX,xiaoe-tech.com
 DOMAIN-SUFFIX,byteeffecttos.com
 DOMAIN-SUFFIX,ahdohpiechei.com
-
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,baidu
-DOMAIN-KEYWORD,douyin
-DOMAIN-KEYWORD,yupoo
-DOMAIN-KEYWORD,kuaishou
-DOMAIN-KEYWORD,doubao
-DOMAIN-KEYWORD,qishui
-DOMAIN-KEYWORD,huoshan
-DOMAIN-KEYWORD,zijieapi
-DOMAIN-KEYWORD,volc
-DOMAIN-KEYWORD,vzuu
-DOMAIN-KEYWORD,zhicyun
-DOMAIN-KEYWORD,weixin
-DOMAIN-KEYWORD,jimeng
-DOMAIN-KEYWORD,cdnhwc
-DOMAIN-KEYWORD,cdnhwc
-
 
 
 
