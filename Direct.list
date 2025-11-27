@@ -22,6 +22,7 @@ DOMAIN-KEYWORD,toutiao
 
 
 
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
@@ -55,6 +56,7 @@ DOMAIN-SUFFIX,xiaoeknow.com
 DOMAIN-SUFFIX,xiaoe-tech.com
 DOMAIN-SUFFIX,byteeffecttos.com
 DOMAIN-SUFFIX,ahdohpiechei.com
+DOMAIN-SUFFIX,dewu.com
 
 
 
