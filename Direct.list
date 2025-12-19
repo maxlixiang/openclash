@@ -21,7 +21,7 @@ DOMAIN-KEYWORD,cdnhwc
 DOMAIN-KEYWORD,toutiao
 DOMAIN-KEYWORD,netease
 DOMAIN-KEYWORD,alibaba
-
+DOMAIN-KEYWORD,tencentcs
 
 
 
@@ -72,7 +72,16 @@ DOMAIN-SUFFIX,kuiniuca.com
 DOMAIN-SUFFIX,qiezibenpao.com
 DOMAIN-SUFFIX,effirst.com
 DOMAIN-SUFFIX,goofish.com
-
+DOMAIN-SUFFIX,kimi.com
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,worldfirst.com
+DOMAIN-SUFFIX,marmot-cloud.com
+DOMAIN-SUFFIX,zamcs.com
+DOMAIN-SUFFIX,ctobsnssdk.com
+DOMAIN-SUFFIX,tftplay.com
+DOMAIN-SUFFIX,rumt-zh.com
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,tec73.com
 
 
 
