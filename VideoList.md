@@ -1,6 +1,6 @@
 # 视频网站补充列表
 
-# MyList
+# MyVideoList
 
 
 # 域名关键字匹配
