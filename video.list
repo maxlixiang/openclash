@@ -7,3 +7,10 @@
 DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,javlibrary
 DOMAIN-KEYWORD,t66y
+
+
+# 网站匹配
+DOMAIN-SUFFIX,surrit.com
+DOMAIN-SUFFIX,nineyu.com
+
+
