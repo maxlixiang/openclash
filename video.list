@@ -6,12 +6,20 @@
 DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,javlibrary
 DOMAIN-KEYWORD,t66y
+DOMAIN-KEYWORD,twitter 
+
+
 
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,surrit.com
 DOMAIN-SUFFIX,nineyu.com
 DOMAIN-SUFFIX,fourhoi.com
+DOMAIN-KEYWORD,twimg.com
+DOMAIN-KEYWORD,sis001.com
+
+
+
 
 
 
